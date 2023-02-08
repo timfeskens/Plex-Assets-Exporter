@@ -27,7 +27,7 @@ All arguments are optional. If one is required and it is not provided, the scrip
 | Option          | Description                                                                    | Default       |  
 | --------------- | ------------------------------------------------------------------------------ | ------------- |  
 | --serverurl     | The Plex server URL.                                                           |               |  
-| --token         | The Plex authentication token / X-Plex-Token.                                  |               |  
+| --token         | The [Plex authentication token / X-Plex-Token](https://support.plex.tv/articles/204059436-finding-an-authentication-token-x-plex-token/).                                  |               |  
 | --library       | The Plex library name.                                                         |               |  
 | --assets        | Which assets should be exported? (all, posters, backgrounds, banners, themes)  |               |
 | --overlays      | Export posters with overlay from Plex Meta Manager?                            | False         |  
